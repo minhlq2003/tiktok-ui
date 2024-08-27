@@ -1,6 +1,10 @@
 .wrapper {
     display: flex;
     align-items: center;
+    padding-top: 8px;
+    &:hover {
+        background-color: rgba(22, 24, 35, 0.03);
+    }
 }
 
 .avatar {

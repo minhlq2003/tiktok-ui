@@ -26,3 +26,8 @@ body {
     line-height: 1.5;
     text-rendering: optimizeSpeed;
 }
+
+a[href] {
+    text-decoration: none;
+    color: inherit;
+}
